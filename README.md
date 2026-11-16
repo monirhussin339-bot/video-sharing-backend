@@ -1,2 +1,3 @@
-# video-sharing-backend
-Short video sharing app backend
+fastapi
+uvicorn[standard]
+python-multipart
